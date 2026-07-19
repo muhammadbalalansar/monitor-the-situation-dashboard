@@ -117,5 +117,6 @@ This project includes step-by-step learning materials covering security theory, 
 | [02 - Architecture](learn/02-ARCHITECTURE.md) | Single-binary collector pipeline, in-process event bus, WebSocket fan-out |
 | [03 - Implementation](learn/03-IMPLEMENTATION.md) | Code walkthrough across collectors, snapshot, ws, alerts |
 | [04 - Challenges](learn/04-CHALLENGES.md) | Extension ideas (additional feeds, custom alerts, deployment) |
+
 ## License
 AGPL 3.0
