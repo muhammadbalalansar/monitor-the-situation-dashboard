@@ -64,6 +64,7 @@ Visit `http://localhost:8432` or the live demo at [iminthewalls.com](https://imi
 
 ## Stack
 
+
 **Backend:** Go 1.25, chi v5, `coder/websocket`, pgx + pgxpool, goose migrations, errgroup-driven collectors, Argon2id, JWT (Ed25519)
 
 **Frontend:** React 19, TypeScript, Vite, TanStack Query v5, Zustand, MapLibre GL, D3, SCSS Modules
