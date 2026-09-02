@@ -73,6 +73,7 @@ Visit `http://localhost:8432` or the live demo at [iminthewalls.com](https://imi
 
 **Infrastructure:** Docker Compose, nginx reverse proxy, Cloudflare Tunnel (prod), multi-stage builds, air for live reload
 
+
 ## Data Sources
 
 | Panel | Source | Cadence | Auth |
