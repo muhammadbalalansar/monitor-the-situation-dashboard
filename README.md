@@ -98,7 +98,7 @@ just prod-redeploy
 just migrate
 ```
 
-## Tests
+## Tests:
 
 ```bash
 cd backend && go test -race ./...
