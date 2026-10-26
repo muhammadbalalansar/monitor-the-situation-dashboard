@@ -21,7 +21,7 @@ README.md
 [![Live Demo](https://img.shields.io/badge/Live-iminthewalls.com-green?style=flat&logo=googlechrome)](https://iminthewalls.com/)
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=flat&logo=docker)](https://www.docker.com)
 
-> Operator-grade real-time situational awareness dashboard. Eleven live feeds across cyber, world, and finance  fused into a single 3D-globe SOC view with WebSocket delivery and configurable alerting.
+> Operator-grade real-time situational awareness dashboard. Eleven live feeds across cyber, world, and finance  fused into a single 3D-globe SOC view with WebSocket delivery and configurable alerting.  
 
 <p align="center">
   <a href="https://youtu.be/4Iv5jKbXbH4">
